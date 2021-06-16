@@ -16,7 +16,7 @@
 
 ## Resultados
 <p align="justify"> 
-  <a>Resultados do algoritmo:</a>
+  <a>Resultados do algoritmo: A primeira imagem é um print da imagem criada localmente. A segunda, é a própria imagem SVG</a>
 </p>
 
 <p align="center"> 
