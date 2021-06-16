@@ -1,0 +1,64 @@
+<svg width='800.00' height='800.00' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0.000' y='0.000' width='800.00' height='80.00' style='fill:rgb(117,213,227); mix-blend-mode: screen;' />
+<rect x='0.000' y='80.000' width='800.00' height='80.00' style='fill:rgb(117,213,202); mix-blend-mode: screen;' />
+<rect x='0.000' y='160.000' width='800.00' height='80.00' style='fill:rgb(117,213,177); mix-blend-mode: screen;' />
+<rect x='0.000' y='240.000' width='800.00' height='80.00' style='fill:rgb(117,213,152); mix-blend-mode: screen;' />
+<rect x='0.000' y='320.000' width='800.00' height='80.00' style='fill:rgb(117,213,127); mix-blend-mode: screen;' />
+<rect x='0.000' y='400.000' width='800.00' height='80.00' style='fill:rgb(117,213,102); mix-blend-mode: screen;' />
+<circle cx='400.0' cy='457.14285' r='213.33333' fill='rgb(250,200,30)' />
+<circle cx='400.0' cy='457.14285' r='192.0' fill='rgb(250,180,40)' />
+<circle cx='400.0' cy='457.14285' r='170.66666' fill='rgb(240,150,20)' />
+<circle cx='400.0' cy='457.14285' r='149.33333' fill='rgb(250,200,30)' />
+<circle cx='400.0' cy='457.14285' r='128.0' fill='rgb(250,180,40)' />
+<circle cx='400.0' cy='457.14285' r='106.666664' fill='rgb(240,150,20)' />
+<circle cx='400.0' cy='457.14285' r='85.33333' fill='rgb(250,200,30)' />
+<circle cx='400.0' cy='457.14285' r='64.0' fill='rgb(250,180,40)' />
+<circle cx='400.0' cy='457.14285' r='42.66667' fill='rgb(240,150,20)' />
+<circle cx='400.0' cy='457.14285' r='21.333328' fill='rgb(250,200,30)' />
+<circle cx='400.0' cy='457.14285' r='0.0' fill='rgb(250,180,40)' />
+<circle cx='400.0' cy='457.14285' r='-21.333328' fill='rgb(240,150,20)' />
+<circle cx='400.0' cy='457.14285' r='-42.66667' fill='rgb(250,200,30)' />
+<circle cx='400.0' cy='457.14285' r='-63.999985' fill='rgb(250,180,40)' />
+<circle cx='400.0' cy='457.14285' r='-85.33333' fill='rgb(240,150,20)' />
+<circle cx='400.0' cy='457.14285' r='-106.66667' fill='rgb(250,200,30)' />
+<circle cx='400.0' cy='457.14285' r='-127.999985' fill='rgb(250,180,40)' />
+<circle cx='400.0' cy='457.14285' r='-149.33333' fill='rgb(240,150,20)' />
+<circle cx='400.0' cy='457.14285' r='-170.66667' fill='rgb(250,200,30)' />
+<circle cx='400.0' cy='457.14285' r='-191.99998' fill='rgb(250,180,40)' />
+<circle cx='400.0' cy='457.14285' r='-213.33333' fill='rgb(240,150,20)' />
+<circle cx='400.0' cy='457.14285' r='-234.66667' fill='rgb(250,200,30)' />
+<rect x='0.000' y='457.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='473.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='489.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='505.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='521.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='537.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='553.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='569.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='585.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='601.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='617.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='633.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='649.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='665.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='681.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='697.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='713.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='729.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='745.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='761.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='777.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='793.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='809.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='825.143' width='800.00' height='16.00' style='fill:rgb(0,40,220); mix-blend-mode: screen;' />
+<rect x='0.000' y='841.143' width='800.00' height='16.00' style='fill:rgb(0,20,150); mix-blend-mode: screen;' />
+<rect x='0.000' y='857.143' width='800.00' height='16.00' style='fill:rgb(0,30,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='750.000' width='800.00' height='22.50' style='fill:rgb(75,0,130); mix-blend-mode: screen;' />
+<rect x='0.000' y='650.000' width='800.00' height='19.50' style='fill:rgb(90,10,140); mix-blend-mode: screen;' />
+<rect x='0.000' y='550.000' width='800.00' height='16.50' style='fill:rgb(100,20,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='450.000' width='800.00' height='13.50' style='fill:rgb(75,0,130); mix-blend-mode: screen;' />
+<rect x='0.000' y='350.000' width='800.00' height='10.50' style='fill:rgb(90,10,140); mix-blend-mode: screen;' />
+<rect x='0.000' y='250.000' width='800.00' height='7.50' style='fill:rgb(100,20,180); mix-blend-mode: screen;' />
+<rect x='0.000' y='150.000' width='800.00' height='4.50' style='fill:rgb(75,0,130); mix-blend-mode: screen;' />
+<rect x='0.000' y='50.000' width='800.00' height='1.50' style='fill:rgb(90,10,140); mix-blend-mode: screen;' />
+</svg>
