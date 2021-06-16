@@ -17,8 +17,8 @@ yellowPalette :: [(Int,Int,Int)]
 yellowPalette = cycle [(250,200,30),(250,180,40),(240,150,20)]
 
 
-genHorizontalStripes :: Float -> Float -> Float -> Float -> [Rect]
-genHorizontalStripes w h size lines = [((0, h*m), w, (h*(size/1000))*m) | m <- [0.9375, 0.8125..0.0625]]
+genHorizontalStripes :: Float -> Float -> Float -> [Rect]
+genHorizontalStripes w h size = [((0, h*m), w, (h*(size/1000))*m) | m <- [0.9375, 0.8125..0.0625]]
 
 genOcean :: Float -> Float -> [Rect]
 genOcean w h = [((0, h/1.75+m), w, w/50)| m <- [0, w/50..w/2]]
@@ -42,11 +42,10 @@ main =
         getSun = genSun sun_position_x sun_position_y sun_radius
         getSky = genSky w h
         getOcean = genOcean w h
-        getHorizontalStripes = genHorizontalStripes w h size lines
+        getHorizontalStripes = genHorizontalStripes w h size
 
         --Size é a variável usada para defiinir a espessura das linhas horizontais (0 ou <0 retira as linhas)
         size = 30
-        lines = 8
 
         --Variaveis para definir x, y e raio do sol
         sun_position_x = w/2

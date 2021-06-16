@@ -19,7 +19,7 @@ svgEnd :: String
 svgEnd = "</svg>"
 
 svgStyle :: (Int,Int,Int) -> String
-svgStyle (r,g,b) = printf "fill:rgb(%d,%d,%d); mix-blend-mode: screen;" r g b
+svgStyle (r,g,b) = printf "fill:rgb(%d,%d,%d);" r g b
 
 svgStyle2 :: (Int,Int,Int) -> String
 svgStyle2 (r,g,b) = printf "rgb(%d,%d,%d)" r g b
