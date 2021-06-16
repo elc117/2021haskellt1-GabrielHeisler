@@ -1,6 +1,6 @@
 
 <h1 align="center">Generative Image com Haskell</h1>
-<h3 align="center">Algorítmo capaz de criar uma imagem</h3>
+<h3 align="center">Algorítmo capaz de criar uma imagem através de parâmetros e listas</h3>
 
 <br/>
 
