@@ -16,11 +16,10 @@
 
 ## Resultados
 <p align="justify"> 
-  <a>Resultados do algoritmo: A primeira imagem é um print da imagem criada localmente. A segunda, é a própria imagem SVG</a>
+  <a>Resultados do algoritmo: Imagem em formato SVG criada pelo algorítmo</a>
 </p>
 
 <p align="center"> 
-  <img src="media/image.png" alt="Print de imagem gerada pelo algoritmo" width="800"/>
   <img src="main.svg" alt="Exemplo de imagem gerada pelo algoritmo, no formato .svg" width="800"/>
 </p>
 
