@@ -10,6 +10,7 @@
 </p>
 
 <p align="center"> 
+  <img src="media/image.png" alt="Exemplo de imagem gerada pelo algoritmo" width="800"/>
   <img src="main.svg" alt="Exemplo de imagem gerada pelo algoritmo" width="800"/>
 </p>
 
